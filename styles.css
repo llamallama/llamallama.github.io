@@ -24,13 +24,13 @@ ul ul {
   padding-left:20px;
 }
 a {
-  color: white;
+  color:#8c8cff;
 }
 a:hover {
   text-decoration:underline;
 }
 a:visited {
-  color:#8c8cff;
+  color:#aa00aa;
 }
 .green {
   color:green;
